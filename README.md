@@ -41,3 +41,5 @@ Stage: This is the funding stages for each business which ranges from the pre-se
 investors: List of investors (String)
 funding_year:The year each company got the funding
 
+Deployment The project is available is available on https://medium.com/@funmilayoabod/riding-the-funding-wave-insights-from-the-analysis-of-indian-startup-funding-2018-2021-c0257c13cac6
+
